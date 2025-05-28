@@ -636,4 +636,4 @@ local Ban = {
 		[3825452326] = {Motivo = "ninguém gosta de você."}, --   flw fono vou pro eb do p3u / mandy fingindo que iria comprar pra tomar desban
 		[5140051990] = {Motivo = "Ninguém gosta de você."}, --  ban others
 		[1957891150] = {Motivo = "ninguém gosta de você"}, --  troll usando starterscript
-		[1511163794] = {Motivo = "ninguém g
+		[1511163794] = {Motivo = "ninguém gosta de você"}, -- troll deu o cu pro fono diz ele
