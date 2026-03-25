@@ -2,7 +2,7 @@ local Ban = {
 	['Ban'] = { 
 
 
-   [7237606225] = {Motivo = 'flw'}, -- ban all
+        [7237606225] = {Motivo = 'flw'}, -- ban all
 		[3128190107] = {Motivo = 'flw'}, -- ban all
 		[9828582963] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior.'}, -- flw
 		[4209153368] = {Motivo = 'Exploit, quando der like eu desban'}, -- flw
@@ -268,7 +268,6 @@ local Ban = {
 		[1536029768] = {Motivo = "flw"}, -- me acusando de crimes?
 		[2649434333] = {Motivo = "Exploit"}, -- Spam exploit
 		[2710519623] = {Motivo = "troll"}, -- van all destroiu v3 btools
-  [7237606225] = {Motivo = "flw"}, -- gracinha
 	},
 
 }
