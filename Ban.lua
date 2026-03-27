@@ -25,7 +25,7 @@ local Ban = {
 		--[3322067390] = {Motivo = "Venda de contas"}, -- lobinha_vr venda de conta.
 		--[3517272121] = {Motivo = "Venda de contas"}, -- lobinha_vr venda de conta.
 		
-		[5006715970] = {Motivo = "Comprovante Falso."}, -- lixo
+		[6009824924] = {Motivo = "Comprovante Falso."}, -- lixo
 		[5274391999] = {Motivo = "Comprovante Falso."}, -- lixo
 		[7424959843] = {Motivo = "Comprovante Falso."}, -- lixo
 		[7507991337] = {Motivo = "Ok"}, -- J7 Pediu
