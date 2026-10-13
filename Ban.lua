@@ -1,7 +1,7 @@
 local Ban = {
 	['Ban'] = { 
 
-
+j
 		--[9592003273] = {Motivo = 'flw'}, -- usando script lagando o jogo
 		[9828582963] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior.'}, -- flw
 		[4209153368] = {Motivo = 'Exploit, quando der like eu desban'}, -- flw
