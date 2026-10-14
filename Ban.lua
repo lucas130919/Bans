@@ -237,7 +237,7 @@ local Ban = {
 
 	},
 	['Ban_Amigos'] = {
-		[5677915950] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior.'}, -- flw
+		[5677915950] = {Motivo = 'Saiba, o que está ruim pode piorar. E ainda não é o pior, mas isso depende de voce, claro. Cuidsdo aonde voce inclina.'}, -- flw
 		[7688223677] = {Motivo = "EB CLONADO."}, --  eb clonado, me dando ban
 		[1903201376] = {Motivo = "Exploit"}, -- exploit vendendo hack de halloween
 		[2463225312] = {Motivo = "Comprovante falso."}, -- comprovante falso
