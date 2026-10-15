@@ -13,7 +13,7 @@ local Ban = {
 		[4782641314] = {Motivo = "Você não é bem vindo no nosso jogo."}, --  RDM em civis sendo recrutados
 		[1903201376] = {Motivo = "Exploit"}, -- exploit fazendo exploits pra vender/ evento halloween
 		
-		[3353792064] = {Motivo = "flw"}, -- exploit no jogo de cartas com conta secundaria
+		[1944802997] = {Motivo = "flw"}, -- exploit no jogo de cartas com conta secundaria
 		[2513687052] = {Motivo = "flw"}, -- doente retardado seguindo em jogo pra ficar focando
 		[5138312115] = {Motivo = "Comprovante Falso."}, -- comprovante falso
 		
